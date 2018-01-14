@@ -1,7 +1,7 @@
-#Wirus_Swirus  
+# Wirus_Swirus  
 Projekt prezentuje jak tworzyć biblioteki współdzielone oraz jak je podmieniać w istniejących programach.
 
-##Struktura projektu:  
+## Struktura projektu:  
 * **[./](./)**  
 W katalogu znajduje się program wywołujący funkcję biblioteki AlDomingo oraz skrypty uruchamiające go z odpowiednio podstawioną biblioteką.
 * **[AlDomingo](AlDomingo)**  
@@ -13,5 +13,5 @@ W katalogu znajduje się podstawowa wersja biblioteki AlDomingo ze zmienioną na
 * **[Test_Makefile](Test_Makefile)**  
 * W katalogu znajduje się test Makefile służący do nauki.
 
-##Wynik działania programu:  
+## Wynik działania programu:  
 ![Wynik działania programu](zrzut.png)
