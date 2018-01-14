@@ -11,7 +11,7 @@ W katalogu znajduje się podstawowa wersja biblioteki AlDomingo z funkcją wypis
 * **[AlDomingo_Nie_Ma](AlDomingo_Nie_Ma)**  
 W katalogu znajduje się podstawowa wersja biblioteki AlDomingo ze zmienioną nazwą funkcji wypisującą dobry napis.
 * **[Test_Makefile](Test_Makefile)**  
-* W katalogu znajduje się test Makefile służący do nauki.
+W katalogu znajduje się test Makefile służący do nauki.
 
 ## Wynik działania programu:  
 ![Wynik działania programu](zrzut.png)
