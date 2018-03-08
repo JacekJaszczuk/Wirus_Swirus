@@ -18,7 +18,7 @@ all: $(TARGET)
 $(TARGET): $(OBJS)
 	$(CXX) $(OBJS) $(LDFLAGS) -o $@
 
-include $(DBJS)
+-include $(DBJS)
 
 .PHONY: clean
 clean:
