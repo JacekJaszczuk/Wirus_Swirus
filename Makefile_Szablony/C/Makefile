@@ -10,7 +10,7 @@ DBJS = $(SRCS:.c=.d)
 all: $(TARGET)
 
 %.d: %.c
-	$(CC) -MM $< > $@
+	$(CC) $(CFLAGS) -MM $< > $@
 
 %.o: %.c
 	$(CC) $(CFLAGS) -c $< -o $@
